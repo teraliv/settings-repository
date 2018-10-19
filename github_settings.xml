@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="6c218230-af5d-459c-9ff0-bb639da8e9df" name="teraliv">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
