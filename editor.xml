@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Input Mono Compressed" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+  </component>
 </application>
