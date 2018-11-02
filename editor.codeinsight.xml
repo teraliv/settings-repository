@@ -2,6 +2,9 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_METHOD_CHAIN_TYPES_INLINE" value="false" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
