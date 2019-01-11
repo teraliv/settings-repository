@@ -1,6 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta alt q" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta alt back_space" />
